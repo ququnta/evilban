@@ -1,0 +1,7 @@
+biterika
+alibaba
+huawei
+bitrix
+digitalocean
+hetzner
+google cloud
