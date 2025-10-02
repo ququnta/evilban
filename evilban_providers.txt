@@ -5,3 +5,6 @@ bitrix
 digitalocean
 hetzner
 google cloud
+vdsina
+ruvds
+amazon
